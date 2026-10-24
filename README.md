@@ -4,9 +4,9 @@
 
 [![smithery badge](https://smithery.ai/badge/useproxy/proxy)](https://smithery.ai/servers/useproxy/proxy)
 
-Free MCP server for the public ad libraries of **Meta, Google, LinkedIn and TikTok**. See what any brand is running right now, analyze image and video creatives, find competitors and get a competitive brief, from Claude, ChatGPT, Cursor or any MCP client. No API keys: sign in once with OAuth.
+Free MCP server for the public ad libraries of **Meta, Google, LinkedIn and TikTok (EU)**. See what any brand is running right now, analyze image and video creatives, find competitors and get a competitive brief, from Claude, ChatGPT, Cursor or any MCP client. No API keys: sign in once with OAuth.
 
-**[Get started free at useproxy.dev →](https://useproxy.dev/welcome?utm_source=github&utm_medium=readme&utm_campaign=proxy-mcp)**
+**[Get started free at useproxy.dev →](https://useproxy.dev/?utm_source=github&utm_medium=readme&utm_campaign=proxy-mcp)**
 
 ## Connect
 
@@ -30,6 +30,12 @@ Endpoint: `https://mcp.useproxy.dev/mcp` (streamable HTTP, OAuth)
 
 Read-only: it cannot create or publish ads, and private performance data such as conversion rate or ROAS is not available.
 
+## Pricing
+
+Free: 20 credits a day, no card. Pro: $50/mo for 100 a day. Max: $100/mo for 250 a day. One credit is one lookup, ad fetch or video transcript. [Details](https://useproxy.dev/pricing?utm_source=github&utm_medium=readme&utm_campaign=proxy-mcp).
+
+TikTok coverage is TikTok's EU ad library (ads shown in the EU), searched by exact advertiser name.
+
 ## Example prompts
 
 - "How many ads is Anthropic running on Meta, and what's the split between video and image?"
@@ -46,6 +52,6 @@ Read-only: it cannot create or publish ads, and private performance data such as
 
 - [Claude plugin](https://github.com/proxy-intell/claude-plugin) with ready-made competitor research and ad-script skills
 - [Cursor plugin](https://github.com/proxy-intell/cursor-plugin)
-- [Self-hostable Facebook Ads Library MCP](https://github.com/proxy-intell/facebook-ads-library-mcp) (open source, bring your own keys)
+- Self-hostable, open-source servers (bring your own keys): [Facebook](https://github.com/proxy-intell/facebook-ads-library-mcp) · [Google](https://github.com/proxy-intell/google-ads-library-mcp) · [LinkedIn](https://github.com/proxy-intell/linkedin-ads-library-mcp) · [TikTok](https://github.com/proxy-intell/tiktok-ads-library-mcp)
 
 [Website](https://useproxy.dev/?utm_source=github&utm_medium=readme&utm_campaign=proxy-mcp) · [Privacy](https://useproxy.dev/privacy) · [Terms](https://useproxy.dev/terms) · [Support](https://useproxy.dev/support)
