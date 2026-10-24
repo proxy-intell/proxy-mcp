@@ -4,7 +4,7 @@
 
 [![smithery badge](https://smithery.ai/badge/useproxy/proxy)](https://smithery.ai/servers/useproxy/proxy)
 
-Free MCP server for the public ad libraries of **Meta, Google, LinkedIn and TikTok**. See what any brand is running right now, analyze image and video creatives, find competitors and get a competitive brief, from Claude, ChatGPT, Cursor or any MCP client. No API keys: sign in once with OAuth.
+Free MCP server for the public ad libraries of **Meta, Google, LinkedIn and TikTok (EU)**. See what any brand is running right now, analyze image and video creatives, find competitors and get a competitive brief, from Claude, ChatGPT, Cursor or any MCP client. No API keys: sign in once with OAuth.
 
 **[Get started free at useproxy.dev →](https://useproxy.dev/welcome?utm_source=github&utm_medium=readme&utm_campaign=proxy-mcp)**
 
