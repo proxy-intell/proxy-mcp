@@ -27,12 +27,14 @@ Endpoint: `https://mcp.useproxy.dev/mcp` (streamable HTTP, OAuth)
 - **Competitors:** discover competitors from a name, domain or market description, then pull their ads.
 - **Competitive brief:** a structured summary of a brand's advertising.
 - **Carousel widget:** render ads inline in clients that support MCP apps.
+- **Competitor tracking:** re-fetch a brand a day or more later and Proxy reports which ads are new and how many stopped.
+- **Playbooks:** step-by-step methods for video scripts, competitor teardowns, product hunting, prospect lists and weekly competitor watch, available through `get_playbook` and as prompts.
 
 Read-only: it cannot create or publish ads, and private performance data such as conversion rate or ROAS is not available.
 
 ## Pricing
 
-Free: 20 credits a day, no card. Pro: $50/mo for 100 a day. Max: $100/mo for 250 a day. One credit is one lookup, ad fetch or video transcript. [Details](https://useproxy.dev/pricing?utm_source=github&utm_medium=readme&utm_campaign=proxy-mcp).
+Free: 20 credits a day, no card. Pro: $25/mo for 50 a day, with a 7-day trial. Pro 2x: $50/mo for 100 a day. Pro 5x: $100/mo for 250 a day. Annual billing gives 2 months free. One credit is one lookup, ad fetch or video transcript. [Details](https://useproxy.dev/pricing?utm_source=github&utm_medium=readme&utm_campaign=proxy-mcp).
 
 TikTok coverage is TikTok's EU ad library (ads shown in the EU), searched by exact advertiser name.
 
