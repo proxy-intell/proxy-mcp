@@ -10,11 +10,11 @@ Free MCP server for the public ad libraries of **Meta, Google, LinkedIn and TikT
 
 ## Connect
 
-Endpoint: `https://mcp.useproxy.dev/mcp` (streamable HTTP, OAuth)
+Endpoint: `https://mcp.useproxy.dev/mcp?ref=proxy-mcp` (streamable HTTP, OAuth)
 
 - **Any client:** follow [useproxy.dev/welcome](https://useproxy.dev/welcome?utm_source=github&utm_medium=readme&utm_campaign=proxy-mcp).
 - **Command line:** `curl -sL useproxy.dev/install | sh` configures your installed agents.
-- **Claude Code:** `claude mcp add --transport http proxy https://mcp.useproxy.dev/mcp`
+- **Claude Code:** `claude mcp add --transport http proxy "https://mcp.useproxy.dev/mcp?ref=proxy-mcp"`
 - **Config file:** copy [`.mcp.json`](.mcp.json) into your client.
 
 ## What it does
