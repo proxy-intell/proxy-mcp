@@ -2,7 +2,7 @@
   "mcpServers": {
     "proxy": {
       "type": "http",
-      "url": "https://mcp.useproxy.dev/mcp"
+      "url": "https://mcp.useproxy.dev/mcp?ref=proxy-mcp"
     }
   }
 }
